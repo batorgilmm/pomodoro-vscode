@@ -1,6 +1,12 @@
 {
   "name": "pomodoro-timer",
-  "homepage": "https://github.com/batorgilmm/food-delivery-frontend/blob/main/README.md",
+  "publisher": "Batorgil",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/batorgilmm/pomodoro-vscode"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
   "displayName": "Pomodoro Timer",
   "description": "A simple Pomodoro timer for VS Code to boost productivity",
   "version": "1.0.0",
