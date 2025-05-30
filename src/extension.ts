@@ -312,7 +312,7 @@ export function activate(context: vscode.ExtensionContext) {
   timerManager.initializeStatusBar();
 
   // Register commands using currying/partial application
-  const createCommand = (action: () => void) =>
+  const createCommand = (action: any) =>
     vscode.commands.registerCommand.bind(null, action);
 
   const commands = [
