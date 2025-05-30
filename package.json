@@ -1,5 +1,5 @@
 {
-  "name": "pomodoro-timer-rgl",
+  "name": "pomodoro-timer",
   "publisher": "Batorgil",
   "repository": {
     "type": "git",
@@ -7,7 +7,7 @@
   },
   "license": "MIT",
   "icon": "icon.png",
-  "displayName": "Pomodoro Timer",
+  "displayName": "Pomodoro Timer RGL",
   "description": "A simple Pomodoro timer for VS Code to boost productivity",
   "version": "1.0.0",
   "engines": {
